@@ -1,2 +1,2 @@
 # background_generator
-learning how github works
+simple dual color background generator
